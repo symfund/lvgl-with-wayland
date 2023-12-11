@@ -12,3 +12,5 @@ The design of X11, Gnome and KDE is not intended for embedded Linux.
 ![LVGL with Wayland](/docs/screenshots/lvgl-wayland.png)
 # Dear ImGui with Wayland
 ![Dear ImGui with Wayland](/docs/screenshots/Dear-ImGui-with-Wayland.png)
+# AirPlay videos from iOS to MA35D1 board
+![AirPlay](/docs/screenshots/airplay.png)
