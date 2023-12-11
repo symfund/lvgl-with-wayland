@@ -4,7 +4,7 @@
 LVGL with Wayland compositors: Weston, Wayfire
 
 # Embedded Linux with Wayland
-Embedded Linux + Wayland > Android (Java Virtual Machine ART/Dalvik + Windowing System)
+Embedded Linux + Wayland > 吊打 Android (Java Virtual Machine ART/Dalvik + Windowing System)
 
 The design of X11, Gnome and KDE is not intended for embedded Linux.
 
